@@ -4,3 +4,7 @@ cc
 dd
 master add
 master again
+by new_branch
+new_branch add
+new_branch again
+
